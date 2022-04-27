@@ -7,7 +7,7 @@ public abstract class Abu {
 	}
 	
 	public void bowsia() {
-System.out.println("karaikudi");
+System.out.println("tambaram");
 
       
 	}
